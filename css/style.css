@@ -20,6 +20,8 @@
 .full {
     background-color: rgb(134, 134, 134, 0.5);
     width: 100%;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }
 
 .search {
@@ -33,4 +35,9 @@
 
 .mart {
     padding-top: 50px;
+}
+
+.bor {
+    border: 1px solid black;
+    margin: 150px 0px 150px 0px;
 }
