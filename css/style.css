@@ -16,3 +16,21 @@
 .leave {
     margin-bottom: 100px;
 }
+
+.full {
+    background-color: rgb(134, 134, 134, 0.5);
+    width: 100%;
+}
+
+.search {
+    width: 600px;
+}
+
+.center1 {
+    display: flex;
+    justify-content: center;
+}
+
+.mart {
+    padding-top: 50px;
+}
