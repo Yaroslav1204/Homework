@@ -41,3 +41,7 @@
     border: 1px solid black;
     margin: 150px 0px 150px 0px;
 }
+
+.footer {
+    background-color: rgb(134, 134, 134, 0.6);
+}
